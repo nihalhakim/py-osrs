@@ -5,9 +5,8 @@ A collection of Python scripts that use GUI control and object-character-recogni
 Open source. Beta open to selected users by demo only. Contact the developer for inquiries.
 
 # Note to Developers
-The code and assets in this repository were made primarily for developers to integrate into server-side applications. 
+The code and assets in this repository was made primarily for developers to integrate into server-side applications. 
 Scripts and prograns may require root/admin access to the clients operating system.
-
 
 
 # Disclaimer
