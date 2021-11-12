@@ -13,3 +13,8 @@ Scripts and prograns may require root/admin access to the clients operating syst
 
 ###### Disclaimer
 Usage, development, ownership, and/or distribution of this code implies recreational non-commercial use only. The Terms and Conditions remain in effect as agreed upon by any player, subscriber, and/or user (whether free or paying) of any and all Jagex game products including but not limited to Old School Runescape, Runescape 3, FunOrb, and/or other affiliated products. Complains, conflicts, disputes, and related messages can be resolved by contacting the owner of this repository.   
+
+
+<img src="https://cdn.britannica.com/65/216665-050-A83A782E/Sisyphus-Titian-1548-49-Prado-Museum-Madrid.jpg"
+     alt=" "
+     style="float: left; margin-right: 10px;" />
