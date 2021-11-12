@@ -18,4 +18,4 @@ Usage, development, ownership, and/or distribution of this code implies recreati
 <img src="https://cdn.britannica.com/65/216665-050-A83A782E/Sisyphus-Titian-1548-49-Prado-Museum-Madrid.jpg"
      alt=" "
      style="float: left; margin-right: 10px;" 
-     width="25%" height="25%"/>
+     width="10%" height="10%"/>
