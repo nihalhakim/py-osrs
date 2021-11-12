@@ -4,7 +4,7 @@ A collection of Python scripts that use GUI control and object-character-recogni
 In essence, this repository allows a user to define screen area(s) of their game client, define timed steps, and run bots to perform workflows with asynchronous game state checks/ menu interactions, and random event handling.
 
 ###### Status
-Open source. Beta open to selected users by demo only. Contact the developer for inquiries.
+Open source. Demos by request only. Contact the developer for inquiries.
 
 ###### Note to Developers
 The code and assets in this repository was made primarily for developers to integrate into server-side applications. 
